@@ -1,0 +1,31 @@
+dictionary using "E:\nsso_77\r77s331v1L14.txt"
+
+{
+str3 a1 %3s "Centre code,Round,"
+str5 a2 %5s "FSU Serial No."
+str2 a3 %2s "Round"
+str3 a4 %3s "Schedule"
+str1 a5 %1s "Sample"
+str1 a6 %1s "Sector"
+str3 a7 %3s "NSS-Region"
+str2 a8 %2s "District"
+str2 a9 %2s "Stratum"
+str2 a10 %2s "Sub-Stratum"
+str1 a11 %1s "Sub-Round"
+str4 a12 %4s "FOD Sub-Region"
+str1 a13 %1s "Second-stage-stratum no."
+str2 a14 %2s "Sample hhld. No."
+str1 a15 %1s "Visit number"
+str2 n1 %2s "Level"
+str3 n2 %3s "Filler"
+str2 n3 %2s "Serial no."
+str10 n4 %10s "Expenditure incurred-Purchase"
+str10 n5 %10s "Expenditure incurred-Major repair"
+str10 n6 %10s "Receipt  from sale"
+str10 n7 %10s "net expenditure  (col 3+4-5)"
+str46 n8 %46s "Blank"
+str3 n9 %3s "NSC"
+str10 n10 %10s "Multiplier"
+
+
+}
